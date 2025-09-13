@@ -22,9 +22,9 @@ Sou estudante de Tecnologia da Informação, com foco em desenvolvimento de soft
 
 | Frontend      | Backend       | Ferramentas     |
 |---------------|---------------|-----------------|
-| HTML5         |'Python'         | Git & GitHub    |
-| CSS3 /        |java           | VS Code         |
-| JavaScript    |SQL  /PHP     |                 |
+| HTML5         | Python        | Git & GitHub    |
+| CSS3 /        | java          | VS Code         |
+| JavaScript    | SQL  /PHP     |                 |
        
 
 ---
