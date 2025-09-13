@@ -1,4 +1,4 @@
-<h1 align="center">🚀 [Seu Nome] • Estudante de Tecnologia</h1>
+<h1 align="center">🚀 Sou o Márcio Barbosa • Estudante de Tecnologia</h1>
 
 <p align="center">
 🎓 Explorando o universo do desenvolvimento<br>
