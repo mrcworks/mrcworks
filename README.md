@@ -61,3 +61,21 @@ Sou estudante de Tecnologia da Informação, com foco em desenvolvimento de soft
 <p align="center">
   <i>"Tecnologia é o que transforma ideias em impacto."</i> ✨
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
